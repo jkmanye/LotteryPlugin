@@ -1,0 +1,7 @@
+name: LotteryPlugin
+main: com.schoolvote.MCPlugin.Gongsun.LotteryPlugin.Main
+version: 1.0-SNAPSHOT
+author: TensorflowPepper
+commands:
+  lottery:
+    description: Lottery Command.
